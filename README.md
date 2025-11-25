@@ -7,6 +7,8 @@ This project focuses on enhancing data analysis efficiency, tracking insights ac
 
 ![Dashboard Demo](https://github.com/user-attachments/assets/c2c69130-1856-4fb3-998d-db16d33f9e97)
 
+
+
 ##  Features
 
 - **Interactive Dashboards**: Gain insights into movie runtimes, genres, and trends with easy-to-navigate visualizations.  
@@ -24,5 +26,7 @@ This project focuses on enhancing data analysis efficiency, tracking insights ac
 ## Getting Started
 
 ### Prerequisites
-- Install Power BI Desktop (download from [Microsoft](https://powerbi.microsoft.com/)).  
+- Install Power BI Desktop (download from [Microsoft](https://powerbi.microsoft.com/)).
+- Download the Dataset link from below link 
+(https://docs.google.com/spreadsheets/d/1BCEHclfEzzYQ8ijHD2-Z0XJ1QiJOGU1q/edit?usp=drive_link&ouid=111202131886711927944&rtpof=true&sd=true)
 - Clone this repository
